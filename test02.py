@@ -8,5 +8,6 @@
 dic = {
     "name": "liang",
     "age": 18,
-    "sex": "男"
+    "sex": "男",
+    "say": "hello"
 }
